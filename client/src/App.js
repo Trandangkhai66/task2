@@ -6,7 +6,8 @@ import { UploadCloud, FileAudio, Check, Copy, Download } from 'lucide-react';
 
 // ⚠️ SAU KHI DEPLOY RENDER XONG, BẠN COPY LINK DÁN VÀO ĐÂY NHÉ
 // Ví dụ: const API_URL = "https://music-app-xyz.onrender.com";
-const API_URL = "http://localhost:5000"; 
+// Dán chính xác link Render của bạn vào đây
+const API_URL = "https://music-server-vv3e.onrender.com"; 
 
 // --- TRANG UPLOAD ---
 const UploadPage = () => {
